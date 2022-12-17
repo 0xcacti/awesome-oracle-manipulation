@@ -28,6 +28,8 @@
 
 - *[On Price Oracles](https://blog.euler.finance/prices-and-oracles-2da0126a138)* 
 
+- *[Uniswap v3 TWAP Oracles in Proof of Stake](https://uniswap.org/blog/uniswap-v3-oracles)*
+
 - *[MEV-Boost: Merge ready Flashbots Architecture - The Merge - Ethereum Research](https://hackmd.io/@manifold/S1jRmGIPF)*
 
 - *[Oracle Design Patterns](https://arxiv.org/pdf/2106.09349.pdf)*
