@@ -24,7 +24,7 @@
 ## Articles/Papers/Posts
 - *[Euler Finance's Oracle Risk Grading System](https://www.euler.finance/blog/euler-protocols-oracle-risk-grading-system)* 
 
-- *[Uniswap V3 Oracle Attack Simulator](https://blog.euler.finance/uniswap-oracle-attack-simulator-42d18adf65af)* 
+- *[Uniswap V3 Oracle Attack Simulator](https://www.euler.finance/blog/oracle-attack-simulator)* 
 
 - *[On Price Oracles](https://blog.euler.finance/prices-and-oracles-2da0126a138)* 
 
