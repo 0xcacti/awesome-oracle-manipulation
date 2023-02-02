@@ -34,7 +34,7 @@
 
 - *[Oracle Design Patterns](https://arxiv.org/pdf/2106.09349.pdf)*
 
--*[Why Oracle Manipulation is so Cheap After the Merge](https://chainsecurity.com/oracle-manipulation-after-merge/)*
+- *[Why Oracle Manipulation is so Cheap After the Merge](https://chainsecurity.com/oracle-manipulation-after-merge/)*
 
 
 
