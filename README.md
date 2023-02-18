@@ -44,3 +44,5 @@
 
 ## Additional Resources
 
+- *[TWAP Oracle Manipulation Risks, Mudit Gupta - DeFi Security Summit 2022](https://www.youtube.com/watch?v=Mu8ytTyStOU)* 
+
