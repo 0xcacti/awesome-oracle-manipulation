@@ -36,6 +36,10 @@
 
 - *[Why Oracle Manipulation is so Cheap After the Merge](https://chainsecurity.com/oracle-manipulation-after-merge/)*
 
+- *[BONQDAO - Rekt](https://rekt.news/bonq-rekt/?utm_source=substack&utm_medium=email)*
+
+- *[More on BONQDAO](https://akshaysrivastav.hashnode.dev/culprit-behind-the-120-million-bonq-attack?utm_source=substack&utm_medium=email)*
+
 
 
 ## Twitter 
