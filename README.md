@@ -1,6 +1,6 @@
 <p align="center">
  <h2 align="center">awesome-oracle-manipulation</h2>
- <p align="center">All awesome awesome oracacle manipulation related content! Note, Oracle Manipulation is not awesome.  This list is intended to help people learn about (and hopefully prevent) these types of attacks.</p>
+ <p align="center">All awesome awesome oracle manipulation related content! Note, Oracle Manipulation is not awesome.  This list is intended to help people learn about (and hopefully prevent) these types of attacks.</p>
  <p align="center">Contributions welcome. Anything missing? Send in a pull request. Thanks.</p>
 </p>
 
