@@ -26,7 +26,7 @@
 
 - *[Uniswap V3 Oracle Attack Simulator](https://www.euler.finance/blog/oracle-attack-simulator)* 
 
-- *[On Price Oracles](https://blog.euler.finance/prices-and-oracles-2da0126a138)* 
+- *[Cost to Manipulating Price Oracles](https://github.com/euler-xyz/uni-v3-twap-manipulation/blob/master/cost-of-attack.pdf)* 
 
 - *[Uniswap v3 TWAP Oracles in Proof of Stake](https://uniswap.org/blog/uniswap-v3-oracles)*
 
