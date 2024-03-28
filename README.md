@@ -38,6 +38,9 @@
 
 - *[More on BONQDAO](https://akshaysrivastav.hashnode.dev/culprit-behind-the-120-million-bonq-attack?utm_source=substack&utm_medium=email)*
 
+- *[Harvest Finance Oracle Vulnerability](https://aftermath.digital/exploit/2021/05/06/Harvest-Finance-Economic-Flash-Loan-Attack-October-2020/)*
+
+- *[Value DeFi MultiStablesVault Vulnerability](https://aftermath.digital/exploit/2021/06/23/Value-Defi-AMM-Oracle/)*
 
 
 ## Twitter 
